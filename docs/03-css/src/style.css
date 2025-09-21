@@ -137,7 +137,7 @@ h1:hover {
 	}
 }
 .plant {
-	animation: slide-in 5s ease-in-out;
+	animation: slide-in 3s ease-in-out;
 }
 .plant {
 	transition: width 2s, height 2s, background-color 1s;
